@@ -1,5 +1,5 @@
+# Removing objects and documentation
 
-
-.docx
-.pdf
-.mat
+*.docx
+*.pdf
+*.mat
